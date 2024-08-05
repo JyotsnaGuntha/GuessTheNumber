@@ -2,7 +2,7 @@
 
 .bg-container {
     background-color: #246db6;
-    height: 100vh;
+    height: 80vh;
 }
 
 .guess-game-img {
@@ -13,6 +13,14 @@
     font-family: "Roboto";
     font-weight: 500;
     font-size: 24px;
+    color: #323f4b;
+    margin-top: 20px;
+}
+
+.attempts-description {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 20px;
     color: #323f4b;
     margin-top: 20px;
 }
